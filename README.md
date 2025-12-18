@@ -1,6 +1,8 @@
 # smd
 computing standardized mean differences (SMD) Use smd With (In) R Software
 
+https://www.youtube.com/watch?v=3WraUumebtc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
